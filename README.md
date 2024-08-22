@@ -128,7 +128,7 @@
 
 ---
 
-### [Atividades Complementares](https://github.com/Lelebertoldi/aulas_biologia/tree/main/Horas%20Complementares)
+### [Atividades Acadêmicas Complementares (AAC)](https://github.com/Lelebertoldi/aulas_biologia/tree/main/Horas%20Complementares)
 
 ---
 
